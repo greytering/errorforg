@@ -1,4 +1,4 @@
-# How to upload A file to github?
+# How to create A file to github?
 Setp 1: touch a file
 ```
 # touch Filename
@@ -18,4 +18,13 @@ Setp 4: Update to github
 ```
 # git push origin master
 Example: git push origin master
+```
+
+
+# Example
+```
+touch test
+git add test
+git commit -m "Upload"
+git push origin master
 ```
