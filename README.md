@@ -24,3 +24,8 @@ git add test
 git commit -m "Upload"
 git push origin master
 ```
+
+
+Git 的工作流程：
+
+![](https://www.runoob.com/wp-content/uploads/2015/02/git-process.png)
